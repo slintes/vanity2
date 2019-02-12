@@ -1,4 +1,4 @@
-package main
+package main // import "slintes.net/vanity2"
 
 import (
 	"vanity2/pkg/test2"
