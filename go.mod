@@ -1,1 +1,1 @@
-module vanity2
+module slintes.net/vanity2
